@@ -1,0 +1,3 @@
+elseif ( is_array( $meta_box['pages'] ) && count( $meta_box['pages'] === 1) )
+
+Corrected by elseif ( is_array( $meta_box['pages'] ) && count( $meta_box['pages'] ) === 1 )
